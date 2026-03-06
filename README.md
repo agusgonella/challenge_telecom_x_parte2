@@ -38,9 +38,11 @@ Para garantizar que los algoritmos de Machine Learning pudieran interpretar corr
 El análisis visual previo al modelado reveló patrones de comportamiento críticos en la base de clientes:
 
 * **La Zona de Peligro (Tenure):** Los diagramas de caja (Boxplots) mostraron que el 50% central de las cancelaciones ocurre entre los meses 10 y 30. Existe un alto riesgo de abandono en la fase temprana del ciclo de vida del cliente.
+  
   <img width="517" height="423" alt="image" src="https://github.com/user-attachments/assets/eaa5f9c0-55a6-4fae-87ce-aa3d9afcfd4a" />
 
 * **El Perfil del Desertor:** Los clientes con tecnología de **Fibra Óptica** y aquellos que poseen **contratos mes a mes** concentran la mayor tasa de fuga, ya que carecen de barreras de salida o penalidades.
+  
   <img width="447" height="274" alt="image" src="https://github.com/user-attachments/assets/874feae8-1d03-47e7-9f45-a303464a30b7" />
 
 ---
