@@ -1,4 +1,11 @@
-# Challenge Telecom X: Análisis de evasión de clientes - Parte 2
+# 📊Challenge Telecom X: Análisis de evasión de clientes - Parte 2
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-150458.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-orange.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)
+
+## Este proyecto forma parte del programa de formación Oracle Next Education (ONE) en colaboración con Alura Latam.
 
 ## 📌 Propósito del Proyecto
 El objetivo principal de este análisis es predecir el **Churn (cancelación de servicio)** de los clientes de la empresa de telecomunicaciones Telecom X. A través de la exploración de datos históricos y la implementación de algoritmos de Machine Learning, este proyecto busca identificar los factores de riesgo tempranos y los perfiles de clientes más propensos a abandonar la compañía, permitiendo así diseñar estrategias de retención proactivas.
@@ -62,3 +69,6 @@ Para reproducir este análisis en tu entorno local:
 3. Asegúrate de tener instalado Python y las bibliotecas requeridas para el análisis de datos. Puedes instalarlas ejecutando:
     `pip install pandas scikit-learn matplotlib seaborn`
 4. Abre el archivo TelecomX_Parte_2.ipynb, verifica que la ruta de carga de datos_tratados.csv sea correcta relativa a tu directorio, y ejecuta las celdas de forma secuencial.
+
+## Autora
+- 👩‍💻 Desarrollado por Agustina Gonella.
