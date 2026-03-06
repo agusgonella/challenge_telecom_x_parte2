@@ -16,6 +16,7 @@ El objetivo principal de este análisis es predecir el **Churn (cancelación de 
 El repositorio está organizado de la siguiente manera para facilitar su reproducibilidad:
 
 * `TelecomX_Parte_2.ipynb`: Cuaderno principal (Jupyter Notebook) que contiene todo el código fuente, desde la limpieza de datos hasta la evaluación final de los modelos predictivos.
+* `TelecomX_Data.json`: Dataset original, el que se usó en la Parte 1 del Challenge.
 * `datos_tratados.csv`: Dataset final limpio y preprocesado resultante de la Parte 1, listo para ser consumido por los algoritmos.
 * `README.md`: Este archivo, con la documentación central del proyecto.
 
